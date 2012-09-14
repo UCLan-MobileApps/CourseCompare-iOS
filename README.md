@@ -3,7 +3,9 @@ CourseCompare-iOS
 
 Open Source Project for the JISC XCRI Project - Mobile App
 
-Cross institutional This app allows users to search for UK university courses. The JISC ‘Making the Most of Course Data’ project funded a large number of universities to produce XML feeds of their course information which adhere to the XCRI-CAP standard. This information can be gathered to enable potential students to search and compare courses. This app uses data harvested and processed by the aggregator developed through the JISC Course Datatech project.
+Cross institutional 
+
+This app allows users to search for UK university courses. The JISC ‘Making the Most of Course Data’ project funded a large number of universities to produce XML feeds of their course information which adhere to the XCRI-CAP standard. This information can be gathered to enable potential students to search and compare courses. This app uses data harvested and processed by the aggregator developed through the JISC Course Datatech project.
 
 http://www.jisc.ac.uk/whatwedo/programmes/elearning/coursedata.aspx http://www.jisc.ac.uk/whatwedo/programmes/elearning/coursedata/coursedata-tech.aspx
 
